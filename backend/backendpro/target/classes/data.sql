@@ -1,0 +1,2 @@
+-- Users: admin, accountant, customer
+-- Passwords will be encoded on registration; we create roles table if necessary via JPA.
